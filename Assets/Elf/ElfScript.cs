@@ -13,21 +13,19 @@ public class ElfScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if(Input.GetKey (KeyCode.W))
+		if(Input.GetKeyDown (KeyCode.W))
         {
             anim.Play("walking");
+            anim.SetBool("IsWalking", true);
+            anim.SetBool("IsIdle",false);
+            anim.SetBool("Isjumping", false);
+            anim.SetBool("IsRunning", false);
         }
        else
         {
-           
+            anim.SetBool("IsIdle", true);
+            anim.SetBool("IsWalking", true);
         }
-        if (Input.GetKey(KeyCode.W) && Input.GetKey(KeyCode.LeftShift))
-        {
-            anim.Play("running");
-        }
-        else
-        {
-            
-        }
+        
     }
 }
