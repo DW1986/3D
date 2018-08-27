@@ -5,9 +5,10 @@ using UnityEngine;
 public class CameraScript : MonoBehaviour {
 
     public float WaterHeight;
+   
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
         RenderSettings.fog = false;
 	}
 	
