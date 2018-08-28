@@ -782,23 +782,93 @@ ModelImporter:
         length: 0
         modified: 0
     skeleton:
-    - name: Elv-Warrior(Clone)
+    - name: Elv-Warrior(Clone)(Clone)
       parentName: 
       position: {x: 0, y: 0, z: 0}
       rotation: {x: 0, y: 0, z: 0, w: 1}
       scale: {x: 1, y: 1, z: 1}
     - name: Camera
-      parentName: Elv-Warrior(Clone)
+      parentName: Elv-Warrior(Clone)(Clone)
       position: {x: -7.4811316, y: 5.2568793, z: 6.5076394}
       rotation: {x: 0.09062839, y: 0.8937962, z: -0.20997298, w: 0.38577995}
       scale: {x: 100, y: 100.00001, z: 99.99999}
     - name: Lamp
-      parentName: Elv-Warrior(Clone)
+      parentName: Elv-Warrior(Clone)(Clone)
       position: {x: -0.034217834, y: 3.1332533, z: 2.0784593}
       rotation: {x: 0.5822519, y: -0.7164561, z: 0.2988324, w: 0.2416042}
       scale: {x: 100.00001, y: 100, z: 99.99999}
+    - name: Makehuman:Body
+      parentName: Elv-Warrior(Clone)(Clone)
+      position: {x: -0, y: -0.086785674, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Makehuman:Bow
+      parentName: Elv-Warrior(Clone)(Clone)
+      position: {x: -0, y: -0.086785674, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Makehuman:Crudefemaleunderwear
+      parentName: Elv-Warrior(Clone)(Clone)
+      position: {x: -0, y: -0.086785674, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Makehuman:Dagger
+      parentName: Elv-Warrior(Clone)(Clone)
+      position: {x: -0, y: -0.086785674, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Makehuman:Elfnew
+      parentName: Elv-Warrior(Clone)(Clone)
+      position: {x: -0, y: -0.086785674, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Makehuman:Eyebrow004
+      parentName: Elv-Warrior(Clone)(Clone)
+      position: {x: -0, y: -0.086785674, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Makehuman:Eyelashes02
+      parentName: Elv-Warrior(Clone)(Clone)
+      position: {x: -0, y: -0.086785674, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Makehuman:High-poly
+      parentName: Elv-Warrior(Clone)(Clone)
+      position: {x: -0, y: -0.086785674, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Makehuman:Leatherboots_2cm
+      parentName: Elv-Warrior(Clone)(Clone)
+      position: {x: -0, y: -0.086785674, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Makehuman:Mma_gloves
+      parentName: Elv-Warrior(Clone)(Clone)
+      position: {x: -0, y: -0.086785674, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Makehuman:Ponytail01
+      parentName: Elv-Warrior(Clone)(Clone)
+      position: {x: -0, y: -0.086785674, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Makehuman:Stocking_01
+      parentName: Elv-Warrior(Clone)(Clone)
+      position: {x: -0, y: -0.086785674, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Makehuman:Teeth_base
+      parentName: Elv-Warrior(Clone)(Clone)
+      position: {x: -0, y: -0.086785674, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Makehuman:Tongue01
+      parentName: Elv-Warrior(Clone)(Clone)
+      position: {x: -0, y: -0.086785674, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
     - name: Makehuman
-      parentName: Elv-Warrior(Clone)
+      parentName: Elv-Warrior(Clone)(Clone)
       position: {x: -0, y: -0.086785674, z: 0}
       rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
       scale: {x: 100, y: 100, z: 100}
@@ -1132,76 +1202,6 @@ ModelImporter:
       position: {x: -0, y: 0.0006397454, z: 0}
       rotation: {x: 0, y: -0, z: -0, w: 1}
       scale: {x: 1, y: 1, z: 1}
-    - name: Makehuman:Body
-      parentName: Elv-Warrior(Clone)
-      position: {x: -0, y: -0.086785674, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: Makehuman:Bow
-      parentName: Elv-Warrior(Clone)
-      position: {x: -0, y: -0.086785674, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: Makehuman:Crudefemaleunderwear
-      parentName: Elv-Warrior(Clone)
-      position: {x: -0, y: -0.086785674, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: Makehuman:Dagger
-      parentName: Elv-Warrior(Clone)
-      position: {x: -0, y: -0.086785674, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: Makehuman:Elfnew
-      parentName: Elv-Warrior(Clone)
-      position: {x: -0, y: -0.086785674, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: Makehuman:Eyebrow004
-      parentName: Elv-Warrior(Clone)
-      position: {x: -0, y: -0.086785674, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: Makehuman:Eyelashes02
-      parentName: Elv-Warrior(Clone)
-      position: {x: -0, y: -0.086785674, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: Makehuman:High-poly
-      parentName: Elv-Warrior(Clone)
-      position: {x: -0, y: -0.086785674, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: Makehuman:Leatherboots_2cm
-      parentName: Elv-Warrior(Clone)
-      position: {x: -0, y: -0.086785674, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: Makehuman:Mma_gloves
-      parentName: Elv-Warrior(Clone)
-      position: {x: -0, y: -0.086785674, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: Makehuman:Ponytail01
-      parentName: Elv-Warrior(Clone)
-      position: {x: -0, y: -0.086785674, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: Makehuman:Stocking_01
-      parentName: Elv-Warrior(Clone)
-      position: {x: -0, y: -0.086785674, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: Makehuman:Teeth_base
-      parentName: Elv-Warrior(Clone)
-      position: {x: -0, y: -0.086785674, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
-    - name: Makehuman:Tongue01
-      parentName: Elv-Warrior(Clone)
-      position: {x: -0, y: -0.086785674, z: 0}
-      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-      scale: {x: 100, y: 100, z: 100}
     armTwist: 0.5
     foreArmTwist: 0.5
     upperLegTwist: 0.5
